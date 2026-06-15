@@ -1,0 +1,8 @@
+student_profile = ()
+Student_id = input ("What's the student's id : ")
+Name = input ("His/Her name : ")
+Age = input ("His/Her age : ")
+student_profile = (Student_id , Name , Age)
+print ("\nName: ", student_profile[1])
+print ("Age: ", student_profile[2])
+print ("Studend ID: ", student_profile[0])

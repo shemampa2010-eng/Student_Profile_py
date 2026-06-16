@@ -1,0 +1,1 @@
+print(input("Ce que tu veux"))
